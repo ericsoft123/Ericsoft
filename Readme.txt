@@ -48,6 +48,8 @@ with nameRepository and communicate to application too
 
 ex:SalesRepository.php(under Repository)
 
+Note:edit  Product,delete Product,edit sales,delete sales are not implemented Visual(GUI) ,but the Code is there for  both onsalesRepository and ProductRepository 
+
 
 
 
