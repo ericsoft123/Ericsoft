@@ -1,0 +1,3 @@
+tests\acceptance\HelloWorldCept.php
+tests\unit\ExampleTest.php:test_savesales_when_clientbuy_andstatus_successfully
+tests\unit\ExampleTest.php:testproductsold_outupdatedsuccessfully
